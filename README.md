@@ -1,6 +1,5 @@
 # genetic
 
-From finance to artificial intelligence, genetic algorithms are a
-powerful tool with a wide array of applications.
+## Encoding problems and solutions
 
 ### 20 Dec 2022 by Oleg G.Kapranov
